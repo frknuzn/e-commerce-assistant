@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Ortam dosyaları
+.env
+.env.*
+
+# Sanal ortam klasörleri
+venv/
+.venv/
+
+# IDE/editor dosyaları
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# OS/system dosyaları
+Thumbs.db
