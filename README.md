@@ -1,4 +1,3 @@
-# e-commerce-assistant
 
 # 🤖 Claude E-Ticaret Asistanı
 
